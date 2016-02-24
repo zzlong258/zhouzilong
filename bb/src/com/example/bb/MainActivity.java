@@ -36,6 +36,7 @@ public class MainActivity extends Activity {
         DownLoadImg();
     }
     
+    //我是一条龙aiaiaiai 
     public void postHttp(){
     	String url = "http://www.hengboit.com/json/json_list.php?cid=36&num=20";
     	//定义一个请求
